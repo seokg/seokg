@@ -4,8 +4,11 @@
 My research lies at the intersection of deep learning, computer vision, and computer graphics. Specifically, I am interests in generative AI focusing on synthesing and maniupulating images, video, and 3D human.
 <br>
 
+
+[personal page](seokg.github.io) / [google scholar](https://scholar.google.com/citations?user=AQt43oYAAAAJ&hl=en) / [email](seokg1023@gmail.com)
+
 #### Education
-* PhD @ GSCT, KAIST - 2018~2024(expected)
+* PhD @ GSCT, KAIST - 2018~2024 (expected)
 * MS @ GSCT, KAIST - 2016~2018
 * BS @ EE, KAIST - 2011~2016
 
