@@ -1,7 +1,7 @@
 👋 Hello World! I am Kwanggyoon Edward Seo currently a PhD candiate at [VML KAIST](https://vml.kaist.ac.kr). 
 
 <br>
-My research lies at the intersection of deep learning, computer vision, and computer graphics. Specifically, I am interests in generative AI focusing on synthesing and maniupulating images, video, and 3D human.
+My research lies at the intersection of deep learning, computer vision, and computer graphics. Specifically, I am interests in generative AI focusing on synthesizing and manipulating images, video, and 3D human.
 <br>
 
 
