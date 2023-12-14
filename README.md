@@ -1,10 +1,30 @@
-👋 Hi, I’m Kwanggyoon, a PhD Student at [VML KAIST](https://vml.kaist.ac.kr)
+👋 Hello World! I am Kwanggyoon Edward Seo currently a PhD candiate at [VML KAIST](https://vml.kaist.ac.kr). 
 
 <br>
-I’m interested in computer vision, computer graphics, and deep learning. 
+My research lies at the intersection of deep learning, computer vision, and computer graphics. Specifically, I am interests in generative AI focusing on synthesing and maniupulating images, video, and 3D human.
 <br>
 
+#### Education
+* PhD @ GSCT, KAIST - 2018~2024(expected)
+* MS @ GSCT, KAIST - 2016~2018
+* BS @ EE, KAIST - 2011~2016
 
+#### Work Experience
+* Research assistant @ KAIST VML - Jan. 2017 ~ Present
+* Research intern @ Adobe Research - Jun. 2022 ~ Aug. 2022
+* Research intern @ Adobe Research - Mar. 2021 ~ Jun. 2021
+* Research intern @ Naver Clova - Dec. 2019 ~ Jun. 2020
+* Software Intern @ Golfzon - Dec. 2015 ~ Feb. 2016
+
+### Selected Publication
+* Emotion Manipulation for Talking-head Videos - in submission
+* Audio-Driven Emotional Talking-Head Generation - in submission
+* Landscape Cinemagraph Generation - in submission
+* Stylized Sketch Extraction via Generative Prior with Limited Data - in submission
+* [StylePortraitVideo: Editing Portrait Videos with Expression Optimization](https://style-portrait-video.github.io) - PG 2022
+* [Deep Learning-based Unsupervised Human Facial Retargeting](https://diglib.eg.org/handle/10.1111/cgf14400) - PG 2021
+* [Virtual Camera Layout Generation using a Reference Video](https://vml.kaist.ac.kr/main/international/individual/173) - CHI 2021
+* [Neural Crossbreed: Neural Based Image Metamorphosis]() - SIGGRAPH Asia 2020
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 
