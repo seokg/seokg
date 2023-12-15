@@ -26,8 +26,8 @@ My research lies at the intersection of deep learning, computer vision, and comp
 * Stylized Sketch Extraction via Generative Prior with Limited Data - in submission
 * [StylePortraitVideo: Editing Portrait Videos with Expression Optimization](https://style-portrait-video.github.io) - PG 2022
 * [Deep Learning-based Unsupervised Human Facial Retargeting](https://diglib.eg.org/handle/10.1111/cgf14400) - PG 2021
-* [Virtual Camera Layout Generation using a Reference Video](https://vml.kaist.ac.kr/main/international/individual/173) - CHI 2021
-* [Neural Crossbreed: Neural Based Image Metamorphosis]() - SIGGRAPH Asia 2020
+* [Virtual Camera Layout Generation using a Reference Video]([https://vml.kaist.ac.kr/main/international/individual/173](https://youtu.be/F4FO_jQ7-N8)) - CHI 2021
+* [Neural Crossbreed: Neural Based Image Metamorphosis](https://github.com/sanghunpark/neural_crossbreed) - SIGGRAPH Asia 2020
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 
