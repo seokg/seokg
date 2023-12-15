@@ -5,7 +5,7 @@ My research lies at the intersection of deep learning, computer vision, and comp
 <br>
 
 
-[personal page](seokg.github.io) / [google scholar](https://scholar.google.com/citations?user=AQt43oYAAAAJ&hl=en) / [email](seokg1023@gmail.com)
+[personal page](https://seokg.github.io) / [google scholar](https://scholar.google.com/citations?user=AQt43oYAAAAJ&hl=en) / [email](seokg1023@gmail.com)
 
 #### Education
 * PhD @ GSCT, KAIST - 2018~2024 (expected)
