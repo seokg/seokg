@@ -19,7 +19,7 @@ My research lies at the intersection of deep learning, computer vision, and comp
 * Research intern @ Naver Clova - Dec. 2019 ~ Jun. 2020
 * Software Intern @ Golfzon - Dec. 2015 ~ Feb. 2016
 
-### Selected Publication
+#### Selected Publication
 * Emotion Manipulation for Talking-head Videos - in submission
 * Audio-Driven Emotional Talking-Head Generation - in submission
 * Landscape Cinemagraph Generation - in submission
