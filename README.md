@@ -23,7 +23,7 @@ My research lies at the intersection of deep learning, computer vision, and comp
 * Emotion Manipulation for Talking-head Videos - in submission
 * Audio-Driven Emotional Talking-Head Generation - in submission
 * Landscape Cinemagraph Generation - in submission
-* Stylized Sketch Extraction via Generative Prior with Limited Data - in submission
+* Stylized Sketch Extraction via Generative Prior with Limited Data - EG 2024
 * [StylePortraitVideo: Editing Portrait Videos with Expression Optimization](https://style-portrait-video.github.io) - PG 2022
 * [Deep Learning-based Unsupervised Human Facial Retargeting](https://diglib.eg.org/handle/10.1111/cgf14400) - PG 2021
 * [Virtual Camera Layout Generation using a Reference Video]([https://vml.kaist.ac.kr/main/international/individual/173](https://youtu.be/F4FO_jQ7-N8)) - CHI 2021
