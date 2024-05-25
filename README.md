@@ -8,7 +8,7 @@ My research lies at the intersection of deep learning, computer vision, and comp
 [personal page](https://seokg.github.io) / [google scholar](https://scholar.google.com/citations?user=AQt43oYAAAAJ&hl=en) / [email](seokg1023@gmail.com)
 
 #### Education
-* PhD @ GSCT, KAIST - 2018~2024 (expected)
+* PhD @ GSCT, KAIST - 2018~2024
 * MS @ GSCT, KAIST - 2016~2018
 * BS @ EE, KAIST - 2011~2016
 
@@ -20,6 +20,7 @@ My research lies at the intersection of deep learning, computer vision, and comp
 * Software Intern @ Golfzon - Dec. 2015 ~ Feb. 2016
 
 #### Selected Publication
+* Mesh Agnostic Audio-driven Facial Animation - in submission
 * Emotion Manipulation for Talking-head Videos - in submission
 * Audio-Driven Emotional Talking-Head Generation - in submission
 * Landscape Cinemagraph Generation - CVPR 2024
