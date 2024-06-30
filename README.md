@@ -1,4 +1,4 @@
-👋 Hello World! I am Kwanggyoon Edward Seo currently a PhD candiate at [VML KAIST](https://vml.kaist.ac.kr). 
+👋 Hello World! I am Kwanggyoon Edward Seo. I have received my PhD from [VML KAIST](https://vml.kaist.ac.kr). 
 
 <br>
 My research lies at the intersection of deep learning, computer vision, and computer graphics. Specifically, I am interests in generative AI focusing on synthesizing and manipulating images, video, and 3D human.
@@ -13,7 +13,7 @@ My research lies at the intersection of deep learning, computer vision, and comp
 * BS @ EE, KAIST - 2011~2016
 
 #### Work Experience
-* Research assistant @ KAIST VML - Jan. 2017 ~ Present
+* Research assistant @ KAIST VML - Jan. 2017 ~ Mar.2024
 * Research intern @ Adobe Research - Jun. 2022 ~ Aug. 2022
 * Research intern @ Adobe Research - Mar. 2021 ~ Jun. 2021
 * Research intern @ Naver Clova - Dec. 2019 ~ Jun. 2020
