@@ -24,7 +24,7 @@ My research lies at the intersection of deep learning, computer vision, and comp
 * Emotion Manipulation for Talking-head Videos - in submission
 * Audio-Driven Emotional Talking-Head Generation - in submission
 * [Speed-Aware Audio-Driven Speech Animation using Adaptive Windows](https://www.dropbox.com/scl/fi/72rtneoabk7lara22y1ox/Audio_Driven_Speech_Animation.pdf?rlkey=k4qdv7xz4e9me7dmu52s6uiaf&dl=0) - TOG 2024
-* [StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN]([https://style-portrait-video.github.io](https://jeolpyeoni.github.io/stylecinegan_project/)) - CVPR 2024
+* [StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN](https://jeolpyeoni.github.io/stylecinegan_project) - CVPR 2024
 * [Stylized Sketch Extraction via Generative Prior with Limited Data](https://kwanyun.github.io/stylesketch_project/) - EG 2024
 * [StylePortraitVideo: Editing Portrait Videos with Expression Optimization](https://style-portrait-video.github.io) - PG 2022
 * [Deep Learning-based Unsupervised Human Facial Retargeting](https://www.dropbox.com/scl/fi/yf1nmvftxq2lyeyztitfc/Deep-Learning-Based-Unsupervised-Human-Facial-Retargeting.pdf?rlkey=8p5p1fhue9n2lgjzkj2e8e5oc&dl=0) - PG 2021
