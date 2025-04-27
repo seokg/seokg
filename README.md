@@ -13,11 +13,11 @@ My research lies at the intersection of deep learning, computer vision, and comp
 * BS @ EE, KAIST - 2011~2016
 
 #### Work Experience
+* Research Scientist @ Flawlss AI - Jun. 2024 ~ Now
 * Research assistant @ KAIST VML - Jan. 2017 ~ Mar.2024
 * Research intern @ Adobe Research - Jun. 2022 ~ Aug. 2022
 * Research intern @ Adobe Research - Mar. 2021 ~ Jun. 2021
 * Research intern @ Naver Clova - Dec. 2019 ~ Jun. 2020
-* Software Intern @ Golfzon - Dec. 2015 ~ Feb. 2016
 
 #### Selected Publication
 * Mesh Agnostic Audio-driven Facial Animation - in submission
