@@ -1,28 +1,23 @@
 👋 Hello World! I am Kwanggyoon Edward Seo. I have received my PhD from [VML KAIST](https://vml.kaist.ac.kr). 
 
 <br>
-My research lies at the intersection of deep learning, computer vision, and computer graphics. Specifically, I am interests in generative AI focusing on synthesizing and manipulating images, video, and 3D human.
+My research lies at the intersection of deep learning, computer vision, and computer graphics. Specifically, I am interests in visual generative models focusing on synthesizing and manipulating images, video, and 3D human.
 <br>
 
 
 [personal page](https://seokg.github.io) / [google scholar](https://scholar.google.com/citations?user=AQt43oYAAAAJ&hl=en) / [email](seokg1023@gmail.com)
+
+#### Work Experience
+* Research Scientist @ Flawlss AI - Jun. 2024 ~ Now
 
 #### Education
 * PhD @ GSCT, KAIST - 2018~2024
 * MS @ GSCT, KAIST - 2016~2018
 * BS @ EE, KAIST - 2011~2016
 
-#### Work Experience
-* Research Scientist @ Flawlss AI - Jun. 2024 ~ Now
-* Research assistant @ KAIST VML - Jan. 2017 ~ Mar.2024
-* Research intern @ Adobe Research - Jun. 2022 ~ Aug. 2022
-* Research intern @ Adobe Research - Mar. 2021 ~ Jun. 2021
-* Research intern @ Naver Clova - Dec. 2019 ~ Jun. 2020
-
 #### Selected Publication
 * [Emotion Manipulation for Talking-Head Videos via Facial Landmarks](https://lmedit.github.io) - TOG 2025
 * Mesh Agnostic Audio-driven Facial Animation - KCGS 2025
-* Audio-Driven Emotional Talking-Head Generation
 * [Speed-Aware Audio-Driven Speech Animation using Adaptive Windows](https://www.dropbox.com/scl/fi/72rtneoabk7lara22y1ox/Audio_Driven_Speech_Animation.pdf?rlkey=k4qdv7xz4e9me7dmu52s6uiaf&dl=0) - TOG 2024; SIGGRAPH Asia 2024
 * [StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN](https://jeolpyeoni.github.io/stylecinegan_project) - CVPR 2024
 * [Stylized Sketch Extraction via Generative Prior with Limited Data](https://kwanyun.github.io/stylesketch_project/) - EG 2024
