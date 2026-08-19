@@ -1,4 +1,4 @@
-👋 Hello World! I am Kwanggyoon Edward Seo. I have received my PhD from [VML KAIST](https://vml.kaist.ac.kr). 
+👋 Hello World! I am Kwanggyoon Edward Seo.
 
 <br>
 My research lies at the intersection of deep learning, computer vision, and computer graphics. Specifically, I am interests in visual generative models focusing on synthesizing and manipulating images, video, and 3D human.
